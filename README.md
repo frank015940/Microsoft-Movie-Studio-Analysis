@@ -39,4 +39,4 @@ Based on the analysis, several key findings can be summarized. The most successf
 * It is recommended to focus on movies with longer runtimes, as they have a positive impact on box office revenue.
 
 ## Non Technical Presentation
-To access the canvas slides click on the link [Presentation][https://www.canva.com/design/DAFj_a9dAPU/G8PCcq5VwJrDyH1PhXy5Cg/edit?utm_content=DAFj_a9dAPU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+To access the canvas slides click on the link [Presentation][#https://www.canva.com/design/DAFj_a9dAPU/G8PCcq5VwJrDyH1PhXy5Cg/edit?utm_content=DAFj_a9dAPU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
